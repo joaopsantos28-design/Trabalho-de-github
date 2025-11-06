@@ -1,0 +1,8 @@
+*Funcionalidades do código/projeto*
+
+Objetivo: Documentar de forma resumida as principais funcionalidades do projeto escolhido, neste caso um programa para restaurante.
+Aqui foi pensado um sistema de avaliação eficiente para que os responsáveis pelo estabelecimento recebam comentários dos clientes 
+com suas avaliações sinceras, baseadas em um sistema numerico bem simplificado. 
+
+Funcionalidade extra: Além de um sistema eficiente de avaliações o restaurante vai dispor de outro sistema que vai ajudar com a agenda,
+agora os clientes vão podem ver a programação do dia junto de suas promoções especiais!!  
