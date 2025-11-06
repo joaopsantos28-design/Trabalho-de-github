@@ -1,0 +1,2 @@
+# Projeto Git - Fluxo de Trabalho
+Este projeto demonstra o uso de branches, merges e resolução de conflitos no GitHub.
