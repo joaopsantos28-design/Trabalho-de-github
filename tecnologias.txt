@@ -7,5 +7,4 @@ Documentação das tecnologias utilizadas
 (Java script): É responsável por fazer toda a lógica do sistema, ele analisa a nota do cliente e mostra se a avaliação é excelente, boa ou terrível, e também exibe a promoção conforme no dia escolhido, garantindo que as mensagens apareçam corretamente na tela e no console.
 
 
-A principal tecnologia é o sql, já que podemos fazer uma biblioteca de comidas
-.
+A principal tecnologia é o HTML, já que podemos fazer uma biblioteca de comida
