@@ -1,0 +1,4 @@
+#projeto git - fluxo de trabalho
+Este projeto demonstra o uso de branches, merges e resolução de conflitos no GitHub.
+
+membro 1 [João Pedro]
