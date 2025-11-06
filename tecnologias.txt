@@ -1,0 +1,7 @@
+Documentação das tecnologias utilizadas
+
+(HTML): É responsável por mostrar o nome do restaurante "Gato Pingado", os campos para inserir a nota e escolher o dia da semana, além dos botões para para ver a avaliação e a promoção, ele é definido como o esqueleto do projeto, onde o usuário interage.
+
+(CSS): É responsável por definir o visual da página, fazendo um layout limpo e agradável, deixando uma disposição dos elementos, ele torna o site bonito legível e adaptado para diferentes tamanhos de tela.
+
+(Java script): É responsável por fazer toda a lógica do sistema, ele analisa a nota do cliente e mostra se a avaliação é excelente, boa ou terrível, e também exibe a promoção conforme no dia escolhido, garantindo que as mensagens apareçam corretamente na tela e no console.
